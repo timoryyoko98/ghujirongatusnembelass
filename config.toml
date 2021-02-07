@@ -1,0 +1,4 @@
+baseURL = "https://music-pdfpapaer56.vercel.app"
+languageCode = "en-us"
+title = "PDF Music Sheet Paper"
+theme = "hugo-theme-minos"
